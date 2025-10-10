@@ -359,3 +359,5 @@ bazel run //zirgen/dsl:zirgen -- $(pwd)/zirgen/dsl/examples/fibonacci.zir --test
 
 [Prev](02_Conceptual_Overview.md)
 [Next](04_Components.md)
+
+<!-- Auto-update: 2025-10-10T15:30:18.825231 -->
